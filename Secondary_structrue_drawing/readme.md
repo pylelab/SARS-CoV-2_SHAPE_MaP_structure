@@ -1,5 +1,5 @@
 # SARS-CoV2 secondary structure model
-SARS-CoV-2_1-1954.png :   1nt - 1954nt\  
+SARS-CoV-2_1-1954.png :   1nt - 1954nt \  
 SARS-CoV-2_1955-4287.png: 1955nt - 4287nt 
 SARS-CoV-2_4288-6585.png: 4288nt - 6585nt
 SARS-CoV-2_6586-8232.png: 6586nt - 8232nnt
